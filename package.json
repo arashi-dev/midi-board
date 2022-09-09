@@ -1,0 +1,43 @@
+{
+  "name": "midi-board",
+  "version": "0.1.0",
+  "description": "Listen and react to your MIDI. e.g. turn your midi piano to a typing keyboard for your system",
+  "main": "dist/index.js",
+  "author": {
+    "name": "Arash Jahanbakhshan",
+    "email": "arash382.jb@gmail.com",
+    "url": "https://github.com/arashi-dev"
+  },
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "demo:typing-keyboard.ts": "nodemon --exec ts-node ./demos/typing-keyboard/index.ts",
+    "demo:typing-keyboard.js": "nodemon --exec ts-node ./demos/typing-keyboard/index.js",
+    "build": "rimraf dist && tsc"
+  },
+  "dependencies": {
+    "@jitsi/robotjs": "^0.6.10",
+    "eventemitter2": "^6.4.8",
+    "lodash": "^4.17.21",
+    "webmidi": "^3.0.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.184",
+    "@types/node": "^18.7.15",
+    "nodemon": "^2.0.19",
+    "rimraf": "^3.0.2",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4"
+  },
+  "keywords": [
+    "midi",
+    "piano",
+    "robot",
+    "keyboard",
+    "typing",
+    "meme",
+    "fun"
+  ]
+}
