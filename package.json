@@ -8,6 +8,13 @@
     "email": "arash382.jb@gmail.com",
     "url": "https://github.com/arashi-dev"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arashi-dev/midi-board.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arashi-dev/midi-board/issues"
+  },
   "files": [
     "dist"
   ],
