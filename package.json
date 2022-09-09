@@ -1,6 +1,6 @@
 {
   "name": "midi-board",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Listen and react to your MIDI. e.g. turn your midi piano to a typing keyboard for your system",
   "main": "dist/index.js",
   "author": {
