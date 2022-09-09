@@ -15,6 +15,7 @@
   "scripts": {
     "demo:typing-keyboard.ts": "nodemon --exec ts-node ./demos/typing-keyboard/index.ts",
     "demo:typing-keyboard.js": "nodemon --exec ts-node ./demos/typing-keyboard/index.js",
+    "prepublish": "yarn build",
     "build": "rimraf dist && tsc"
   },
   "dependencies": {
