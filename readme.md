@@ -3,7 +3,7 @@
 
 # Midiboard
 
-> You can add simply listen and react to your MIDI instrument. just like [this example](https://github.com/arashi-dev/midi-board/tree/main/demos/typing-keyboard) you can turn your MIDI piano to a typing keyboard. I wrote this library just for fun. I do not have plan to make it more advanced (but I will accept any issue, PR and maybe add some features if I had time)
+> You can simply listen and react to your MIDI instrument. just like [this example](https://github.com/arashi-dev/midi-board/tree/main/demos/typing-keyboard) you can turn your MIDI piano to a typing keyboard. I wrote this library just for fun. I do not have plan to make it more advanced (but I will accept any issue, PR and maybe add some features if I had time)
 
 ## Prerequisites
 
