@@ -86,7 +86,7 @@ Every pull request is pleasured to me :) I hope you will have a lot of fun durin
 ## Built With
 
 * VSCode - Editor
-* Vox - Piano
+* NUX - Piano
 * [RobotJS](https://github.com/jitsi/robotjs) - system keyboard simulation
 * [WebMidi](https://github.com/djipco/webmidi) - port listening
 * Love
