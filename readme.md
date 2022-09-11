@@ -35,9 +35,7 @@ npm install -g yarn
     - [Importing MidiBoard (ES6)](#importing-midiboard-es6)
     - [NodeJS (require)](#nodejs-require)
   - [Contributing](#contributing)
-  - [Credits](#credits)
   - [Built With](#built-with)
-  - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
 
@@ -76,7 +74,7 @@ const { MidiBoard } = require("midi-board")
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Every pull request is pleasured to me :) I hope you will have a lot of fun during contribution
 
 1.  Fork it!
 2.  Create your feature branch: `git checkout -b my-new-feature`
@@ -85,27 +83,20 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 5.  Push to the branch: `git push origin my-new-feature`
 6.  Submit a pull request :sunglasses:
 
-## Credits
-
-TODO: Write credits
-
 ## Built With
 
-* Dropwizard - Bla bla bla
-* Maven - Maybe
-* Atom - ergaerga
+* VSCode - Editor
+* Vox - Piano
+* [RobotJS](https://github.com/jitsi/robotjs) - system keyboard simulation
+* [WebMidi](https://github.com/djipco/webmidi) - port listening
 * Love
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
-* **John Doe** - *Initial work* - [JohnDoe](https://github.com/JohnDoe)
+* **Arash Jahanbakhshan** - *Developer* - [arashi-dev](https://github.com/arashi-dev)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Just do a simple PR and after that add your name here :)
 
 ## License
 
-[MIT License](https://andreasonny.mit-license.org/2019) © Andrea SonnY
+[MIT License](https://arash-jahanbakhshan.mit-license.org) © Arash Jahanbakhshan
